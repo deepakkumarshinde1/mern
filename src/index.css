@@ -1,0 +1,16 @@
+.text:hover {
+  color: green;
+  animation: blink 0.2s infinite;
+}
+.italic {
+  font-style: italic;
+}
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
