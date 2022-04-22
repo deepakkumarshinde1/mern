@@ -6,3 +6,4 @@ single source of truth
 1st 
 git config --global user.name "deepakkumarshinde1"
 git config --global user.email "deepakkumar.shinde1@gmail.com"
+git init
